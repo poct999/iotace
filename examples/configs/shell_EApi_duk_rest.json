@@ -1,0 +1,13 @@
+{
+	"header": "examples/projects/EApi/EApi.h", 
+	"out": {
+		"duktape": {},
+		"civetweb": {},
+		"shell": {
+			"with_app": true,
+            "libs": [
+				"-lEApi" 
+			]
+        }
+	}
+}

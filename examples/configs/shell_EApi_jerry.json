@@ -1,0 +1,15 @@
+{
+	"header": "examples/projects/EApi/EApi.h", 
+	"out": {
+		"jerryscript": {},
+		"shell": {
+			"with_app": true,
+            "libs": [
+				"-lEApi", 
+				"-L/home/rost/Projects/RTSoft/MK/jerryscript/build/lib", 
+				"-ljerry-core",
+				"-ljerry-libm"
+			]
+        }
+	}
+}

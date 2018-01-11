@@ -1,0 +1,14 @@
+{
+	"header": "examples/projects/c_project/my_program.h", 
+	"out": {
+		"duktape": {},
+		"civetweb": {},
+		"shell": {
+			"with_app": true,
+			"source": ["examples/projects/c_project/my_program.o"],
+            "libs": [ 
+			]
+        }
+
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"header": "examples/projects/blink/my_program.h", 
+	"out": {
+		"jerryscript": {},
+		"shell": {
+			"target": "targets/tirtos_msp430",
+			"with_app": true
+        }
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"header": "examples/projects/c_project/my_program.h", 
+	"out": {
+		"nodejs_uart_client": {},
+		"nodered_uart": {}
+	}
+}

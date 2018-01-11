@@ -1,0 +1,9 @@
+{
+	"header": "examples/projects/c_project/my_program.h", 
+	"out": {
+		"nodejs": {
+			"source": ["examples/projects/c_project/my_program.o"]
+		},
+		"nodered": {}
+	}
+}

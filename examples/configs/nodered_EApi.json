@@ -1,0 +1,9 @@
+{
+	"header": "examples/projects/EApi/EApi.h", 
+	"out": {
+		"nodejs": {
+			"libs": ["-lEApi"]
+		},
+		"nodered": {}
+	}
+}

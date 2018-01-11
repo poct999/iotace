@@ -1,0 +1,17 @@
+{
+	"header": "examples/projects/c_project/my_program.h", 
+	"out": {
+		"jerryscript": {},
+		"civetweb": {},
+		"shell": {
+			"with_app": true,
+			"source": ["examples/projects/c_project/my_program.o"],
+            "libs": [ 
+				"-L/home/rost/Projects/RTSoft/MK/jerryscript/build/lib", 
+				"-ljerry-core",
+				"-ljerry-libm"
+			]
+        }
+
+	}
+}
